@@ -1,0 +1,4 @@
+*.swp
+*.tar.gz
+Catalyst-TraitFor-Controller-Ping*
+*.db
